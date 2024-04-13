@@ -6,6 +6,7 @@
   "scripts": {
     "build": "npm run build:tokens && npm run test",
     "build:tokens": "node build.js",
+    "release": "npm run build && np",
     "test": "vitest run"
   },
   "files": [
@@ -22,6 +23,7 @@
   "author": "Adrian Zinko",
   "license": "MIT",
   "devDependencies": {
+    "np": "^10.0.3",
     "style-dictionary": "^3.9.2",
     "vitest": "^1.5.0"
   },
