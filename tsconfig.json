@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "outDir": "./dist",
+    "target": "ES6",
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "declaration": true,
+    "declarationDir": "./dist",
+    "forceConsistentCasingInFileNames": true,
+    "strict": true
+  },
+  "include": ["index.ts"]
+}

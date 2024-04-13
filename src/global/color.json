@@ -1,0 +1,18 @@
+{
+  "color": {
+    "global": {
+      "grey": {
+        "14": {
+          "value": "#242424",
+          "type": "color"
+        }
+      },
+      "white": {
+        "0": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      }
+    }
+  }
+}
